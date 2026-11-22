@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/SkyOrbitLogoDark.svg">
-    <img src="images/SkyOrbitLogo.svg" alt="SK | SkyOrbit logo: a circle crossed by an orbit, with a star at the top right, above the words SK SkyOrbit" width="140">
-  </picture>
+  <img src="images/SkyOrbitLogo.svg" alt="SK | SkyOrbit logo: a circle crossed by an orbit, with a star at the top right, above the words SK SkyOrbit" width="140">
 </p>
 
 # Michele Kummer · SK | SkyOrbit
