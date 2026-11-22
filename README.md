@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="images/SkyOrbitLogo.svg" alt="SK | SkyOrbit logo: a circle crossed by an orbit, with a star at the top right, above the words SK SkyOrbit" width="140">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/SkyOrbitLogoBlue.svg">
+    <img src="images/SkyOrbitLogo.gif" alt="SK | SkyOrbit logo: a circle crossed by an orbit, with a star at the top right, above the words SK SkyOrbit" width="160">
+  </picture>
 </p>
 
 # Michele "Shelly" Kummer · SK | SkyOrbit
@@ -31,3 +34,7 @@ Turns raw TV disc rips into the names and folders Plex expects, for TV seasons a
 - **Documented.** Each project has a README, a contributing guide, a security policy, a code of conduct and an accessibility statement.
 
 **Tools:** Python, PowerShell, Claude Code, GitHub Issues and Projects.
+
+---
+
+The SK | SkyOrbit name and logo are © 2026 SK | SkyOrbit. All rights reserved.

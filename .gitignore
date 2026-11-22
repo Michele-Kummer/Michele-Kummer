@@ -1,0 +1,6 @@
+# Logo files stay on this computer, except the two the READMEs show: the animated
+# full-colour logo, and the Blue logo for dark mode. The other projects load these
+# two from here, so no logo file is kept in an MIT-licensed repository.
+images/*
+!images/SkyOrbitLogo.gif
+!images/SkyOrbitLogoBlue.svg
