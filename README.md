@@ -2,7 +2,7 @@
   <img src="images/SkyOrbitLogo.svg" alt="SK | SkyOrbit logo: a circle crossed by an orbit, with a star at the top right, above the words SK SkyOrbit" width="140">
 </p>
 
-# Michele Kummer · SK | SkyOrbit
+# Michele "Shelly" Kummer · SK | SkyOrbit
 
 Turning real-world problems into clear requirements and carefully tested tools.
 
